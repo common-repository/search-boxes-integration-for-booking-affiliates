@@ -1,0 +1,22 @@
+
+.settings_page_basb-settings-page textarea
+{
+    width: 100%;
+    min-height: 170px;
+    font-size: 10px;
+    line-height: 11px;
+    font-family: "Lucida Console", Courier, "Courier New",monospace;
+}
+
+.settings_page_basb-settings-page input[type=text]
+{
+    max-width: 80%;
+    min-width: 50%;
+}
+
+#basb_admin_metabox_post label
+{
+    font-weight:bold;
+    display:inline-block;
+    width:120px;
+}
